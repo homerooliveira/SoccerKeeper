@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Soccer Keeper</string>
+    <string name="team_a">Time A</string>
+    <string name="plus_1_goal">+1 Gol</string>
+    <string name="default_value">0</string>
+    <string name="team_b">Time B</string>
+    <string name="reset">Zerar</string>
+    <string name="plus_1_foul">+ 1 Falta</string>
+</resources>

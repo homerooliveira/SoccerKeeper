@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/materialBlue500</color>
+    <color name="colorPrimaryDark">#0d47a1</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="materialBlue500">#2196f3</color>
+    <color name="materialGrey700">#616161</color>
+</resources>
